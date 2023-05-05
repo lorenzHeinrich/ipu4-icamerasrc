@@ -24,6 +24,3 @@ User Guide
 
 #  4. Install icamerasrc
      sudo rpm -ivh icamerasrc-*.rpm --nodeps --force
-
-
-
